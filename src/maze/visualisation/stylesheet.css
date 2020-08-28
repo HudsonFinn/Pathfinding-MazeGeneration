@@ -1,0 +1,24 @@
+.button {
+    -fx-font: 16px "Serif";
+    -fx-padding: 15;
+    -fx-border-insets: 8px;
+    -fx-background-insets: 8px;
+    -fx-background-color: #599196;
+}
+
+.button:hover {
+  -fx-background-color:#dae7f3;
+}
+
+#NavBar {
+  -fx-background-color: #43A4AD;
+}
+#WholeContainer {
+  -fx-background-color: #54C3CE;
+}
+
+#MazeContainer {
+  -fx-padding: 20;
+  -fx-border-insets: 10px;
+  -fx-background-insets: 10px;
+}
